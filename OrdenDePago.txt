@@ -1,4 +1,10 @@
 #################################################
 #############Orden de pago#######################
+Nombre: Adrian Jurado
 Valor de creditos 
-125
+Valor a pagar:125
+
+
+Nombre: Pepito Piedras
+Valor de creditos 
+Valor a pagar: 80
